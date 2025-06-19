@@ -1,0 +1,19 @@
+# Test URLs for different content types
+# General content
+https://en.wikipedia.org/wiki/Artificial_intelligence
+https://www.example.com
+
+# Technical documentation
+https://docs.python.org/3/tutorial/
+https://docs.docker.com/get-started/
+https://reactjs.org/docs/getting-started.html
+
+# News content
+https://www.reuters.com/technology/
+https://techcrunch.com/
+https://www.bbc.com/news/technology
+
+# Code repositories and documentation
+https://github.com/microsoft/TypeScript
+https://docs.github.com/en/get-started
+https://kubernetes.io/docs/concepts/

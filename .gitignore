@@ -268,6 +268,12 @@ devstral_test.py
 # LLM Testing outputs
 *_test_results.json
 comparison_*.json
+ollama_test_*.json
+ollama_test_*.csv
+ollama_test_*.md
+
+# UV package manager
+uv.lock
 
 CLAUDE_MONITOR.md
 CLAUDE.md
