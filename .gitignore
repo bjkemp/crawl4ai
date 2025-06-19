@@ -256,6 +256,19 @@ continue_config.json
 .llm.env
 .private/
 
+# API Keys and secrets
+*.env.local
+*.env.production
+*.env.test
+*_api_key*
+test_*.env
+gemini_test.py
+devstral_test.py
+
+# LLM Testing outputs
+*_test_results.json
+comparison_*.json
+
 CLAUDE_MONITOR.md
 CLAUDE.md
 
